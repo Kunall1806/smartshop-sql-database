@@ -1,28 +1,31 @@
-# SmartShop - Advanced E-Commerce SQL Project
+# SmartShop – Advanced E-Commerce SQL Database Project
 
-This project simulates an online shopping database system.
+A professional SQL database project simulating an E-commerce platform.  
+This project demonstrates database design, relational schema creation, and advanced SQL queries.
 
 ## Features
-- Users
-- Products
-- Categories
-- Cart
-- Orders
-- Payments
-- Trigger for auto stock update
+- Relational database schema design
+- Multiple tables with relationships
+- Sample data insertion
+- SQL queries for CRUD operations
+- Joins, aggregations, filtering, and reporting
 
-## SQL Concepts Used
+## Files
+schema.sql  → table structure
+data.sql    → sample records
+queries.sql → SQL queries & operations
+
+## Skills Demonstrated
+- SQL
+- DBMS
+- Table relationships
 - Joins
-- Foreign Keys
-- Aggregate Functions
-- Triggers
-- Constraints
+- Data manipulation
+- Real-world database design
 
 ## How to Run
-Run:
-1. schema.sql
-2. data.sql
-3. queries.sql
+Import schema.sql → then data.sql → then run queries.sql
 
 ## Author
 Kunal Kumar
+GitHub: https://github.com/Kunall1806
